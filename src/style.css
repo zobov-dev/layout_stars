@@ -1,4 +1,7 @@
-/* add styles here */
-body{
+* {
+  box-sizing: border-box;
+}
+
+body {
   margin: 0;
 }
